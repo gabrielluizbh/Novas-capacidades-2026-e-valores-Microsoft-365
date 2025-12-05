@@ -1,4 +1,4 @@
-# Novas capacidades de 2026 e valores para os planos do Microsoft 365
+# Novas capacidades e valores atualizados para os planos do Microsoft 365 em 2026.
 
 ![novas capacidades-2026-m365](https://github.com/user-attachments/assets/719949c2-7109-429b-b10f-784566b64594)
 
